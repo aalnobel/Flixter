@@ -11,6 +11,11 @@ User Stories
 A user story is a way to capture requirements for an app from an end-user perspective. It is a common practice in app development and helps to simplify the way requirements are specified.
 
 Required Stories
+The following **required** functionality is completed:
+
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API. (10 points)
 * [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
