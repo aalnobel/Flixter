@@ -27,7 +27,7 @@ The following **required** functionality is completed:
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, ``TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://github.com/aalnobel/Flixter/blob/master/FlixWalkTrough.gif`. Make sure the gif actually renders and animates when viewing this README. 
 `. Make sure the gif actually renders and animates when viewing this README.
 
-<img src="https://github.com/aalnobel/Flixter/blob/master/FlixWalkTrough.gif" width=250><br>
+<img src="https://github.com/aalnobel/Flixter/blob/master/FlixWalkTroughPart2.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
