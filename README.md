@@ -22,6 +22,17 @@ The following **required** functionality is completed:
 - [ ] (2pts) Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
+## Flix Part 1
+Required Stories
+Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity. (8 points)
+💡Concept guide
+ Assignment Intro - Activities & Intents
+ Details Screen Implementation
+Allow video posts to be played in full-screen using the YouTubePlayerView (2 points)
+ YoutubePlayerView
+💡Concept guide
+See the videos API for video information. Here's a sample request.
+If your Android device or emulator is running on API 30+, you will likely see an error with the Youtube initialization. Check out Hint #7 on the hints tab for how to resolve this issue.
 
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, ``TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://github.com/aalnobel/Flixter/blob/master/FlixWalkTrough.gif`. Make sure the gif actually renders and animates when viewing this README. 
